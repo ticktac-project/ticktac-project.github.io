@@ -29,7 +29,7 @@ github_username:  ticktac-project
 repository: ticktac-project/uppal-to-tchecker.git
 
 # Build settings
-theme: minima
+theme: jekyll-theme-minimal
 #remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
