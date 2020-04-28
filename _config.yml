@@ -26,10 +26,11 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ticktac-project
-repository: ticktac-project/uppal-to-tchecker.git
+repository: ticktac-project/ticktack-project.github.io
 
 # Build settings
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 #remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
